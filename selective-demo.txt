@@ -1,3 +1,5 @@
 Feature 1: Login functionality
 Feature 2: Logout functionality
 Feature 3: Password reset functionality
+Feature 4: Profile update functionality
+Feature 5: Notification functionality
